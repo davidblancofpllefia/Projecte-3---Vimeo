@@ -1,0 +1,13 @@
+// src/styles/bootstrap.scss
+
+// Sobrescribe variables de Bootstrap
+$primary: rgba(23,213,255);
+$secondary:rgb(241, 241, 241);
+$info:#F4F4F4;
+$rosa: #FCE2D7;
+$success:#285E67;
+$warning:#222;
+$danger:rgba(40,49,58,255);
+
+// Importa Bootstrap desde node_modules
+@import "bootstrap/scss/bootstrap";
